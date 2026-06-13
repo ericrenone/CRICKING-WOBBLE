@@ -379,10 +379,6 @@ The wobble position absorbs quantum noise. The genome sorts it into order. The c
 
 **Repository:** https://github.com/ericrenone/CRICKING-WOBBLE
 
-**License:** CC-BY-4.0 (Creative Commons Attribution 4.0 International)
-
-**Contact:** eric@eri-labs.ai
-
 **Institutions:** ERI Labs · Emergent Reality Intelligence · Jersey City, New Jersey
 
 ---
